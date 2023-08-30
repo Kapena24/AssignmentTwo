@@ -19,12 +19,12 @@ var firstNewVariable = myFirstVariable + mySecondVariable + myThirdVariable
 
 print(myThirdVariable)*/
 
-var theFirstNewVariable = "My brian really hurts,"
+var theFirstNewVariable = "Hello,"
 
-var theSecondNewVarivable = " but I'm doing my best."
+var theSecondNewVarivable = " My name is"
 
-var theThirdNewVarivable = " I think I've got that hang of it."
+var theThirdNewVarivable = " Kapena, please call me Pena."
 
 var finalNewVarivable = theFirstNewVariable + theSecondNewVarivable + theThirdNewVarivable
 
-print(finalNewVarivable)
+print (finalNewVarivable)

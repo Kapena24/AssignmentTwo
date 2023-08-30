@@ -1,2 +1,2 @@
 # AssignmentTwo
-Did in class on by myself
+Did in class and on my own

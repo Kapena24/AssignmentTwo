@@ -21,10 +21,10 @@ print(myThirdVariable)*/
 
 var theFirstNewVariable = "My brian really hurts,"
 
-var theSecondNewVarivable = "but I'm doing my best."
+var theSecondNewVarivable = " but I'm doing my best."
 
-var theThirdNewVarivable = theFirstNewVariable + theSecondNewVarivable + "I think I've got that hang of it"
+var theThirdNewVarivable = " I think I've got that hang of it."
 
-var finalNewVarivable = theThirdNewVarivable
+var finalNewVarivable = theFirstNewVariable + theSecondNewVarivable + theThirdNewVarivable
 
 print(finalNewVarivable)
